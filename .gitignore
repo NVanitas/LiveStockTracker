@@ -1,0 +1,14 @@
+# Ignorar a pasta .vs, que contém arquivos temporários do Visual Studio
+.vs/
+
+# Ignorar a pasta bin, que contém arquivos compilados
+bin/
+
+# Ignorar a pasta obj, que contém arquivos temporários de compilação
+obj/
+
+# Ignorar arquivos de configuração do Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
