@@ -95,4 +95,3 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 ## Autor
 
 Feito com 💙 por [NVanitas](https://github.com/NVanitas)
-```
